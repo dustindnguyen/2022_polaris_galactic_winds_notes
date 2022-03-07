@@ -4,4 +4,4 @@ Repository containing Mathematica and Jupyter notebooks for undergraduate mentee
 Content:
 
 1. `Derivation of CC85 Polaris.nb` is a Mathematica notebook. 
-2. `03March2022_Polaris_CC85.ipynb` is a Jupyter notebook which contains a basic root find for the CC85 solution and creates plots 
+2. `03March2022_Polaris_CC85.ipynb` is a Jupyter notebook which contains a basic root find (newton-raphson method) for the CC85 solution and creates plots 
