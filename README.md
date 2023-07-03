@@ -1,4 +1,4 @@
-# polaris-galactic-winds-2022
+# 2022 polaris galactic wind notes
 Repository containing Mathematica and Jupyter notebooks for undergraduate mentees Ashley Tarrant and Sierra Reis. Notebooks may contain some typos that we will resolve out when meeting in person. 
 
 Content:
